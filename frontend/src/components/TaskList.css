@@ -1,0 +1,12 @@
+.task-list {
+    margin-top: 20px;
+  }
+  
+  .task-item {
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 6px;
+  }
+  
